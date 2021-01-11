@@ -1,0 +1,10 @@
+
+/* The styles  in the host selector are independent of the component  */
+:host {
+  width: 100%;
+  height: 50px;
+  display: block;
+  background: #3f51b5;
+  line-height: 40px;
+  color: #fff;
+}
